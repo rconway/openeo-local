@@ -1,0 +1,7 @@
+wheel
+setuptools
+openeo[localprocessing]
+netcdf4
+h5netcdf
+matplotlib
+jupyterlab
